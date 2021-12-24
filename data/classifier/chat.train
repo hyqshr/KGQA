@@ -1,0 +1,75 @@
+__label__greet 打扰 一下
+__label__bot what   your   name ?
+__label__bot 你 是 机器人 吗
+__label__bot 你 的 名字 ？
+__label__greet 你好
+__label__bot 你 叫 什么 啊
+__label__bot nishishui
+__label__greet 打扰 了
+__label__greet 晚上 好
+__label__greet hey
+__label__goodbye 忙 事情 去 了
+__label__bot 你 叫 什么 名字 啊
+__label__bot 你 到底 是 哪个
+__label__greet 有 人工 服务 吗
+__label__greet hello
+__label__greet 有个 问题 请教
+__label__bot 怎么 称呼 你 啊 ？
+__label__goodbye 回见
+__label__bot 谁 呢
+__label__bot 机器人 ？
+__label__bot 你 的 名字 是 什么
+__label__greet 您好
+__label__greet good   afternoon
+__label__goodbye 再见 啦 ， 下次 聊
+__label__bot 你 是 机器人 啊
+__label__greet morning
+__label__bot 你是谁
+__label__bot 你 是 人类 吗 ？
+__label__greet nihao
+__label__greet 下午 好 啊
+__label__bot 你 是 人 吗 ？
+__label__goodbye bye ~
+__label__bot 报上名来
+__label__greet 哈 喽
+__label__goodbye 拜拜 咯
+__label__greet 嘿嘿嘿
+__label__goodbye bye
+__label__greet hey   men
+__label__bot 你 是 谁 呢
+__label__goodbye 先 这样 吧
+__label__goodbye goodbye
+__label__greet 嗨
+__label__goodbye 拜拜
+__label__greet good   evening
+__label__goodbye 再见
+__label__bot 你 是 谁
+__label__greet 现在 营业 吗
+__label__goodbye 不聊 了
+__label__bot 怎么 称呼
+__label__bot 谁 在 呢
+__label__bot 谁 啊
+__label__greet hi
+__label__goodbye 我 去 忙 了
+__label__bot 你 是 哪位
+__label__greet what   up
+__label__goodbye 下次 见
+__label__greet good   morning
+__label__greet 有人 吗
+__label__greet good   night
+__label__greet 你好 啊
+__label__greet 你好 呀
+__label__bot 你 是 哪个 ？ ？
+__label__goodbye 再见 咯
+__label__greet 可以 问 你 问题 吗
+__label__greet 早上好 呀
+__label__bot who   are   you
+__label__greet 你 有 时间 吗
+__label__bot 来者 何人
+__label__greet 很 高心 见到 你
+__label__bot 你 叫 什么
+__label__bot 你 是 谁 啊 ？
+__label__bot 你 是 ？
+__label__greet 嘿
+__label__greet hai
+__label__bot 你 是 人 还是 机器人
